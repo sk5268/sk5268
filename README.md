@@ -29,13 +29,6 @@ If I'm not staring at a screen, I'm probably:
 
 ---
 
-## 📊 GitHub Stats
-
-![Srimadhava's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk5268&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sk5268&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🌐 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/srimadhava-khandavilli/)
