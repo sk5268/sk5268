@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there! 👋 I'm SK_5268, [AOSL7](https://marvelcinematicuniverse.fandom.com/wiki/Clearance_Level)
 
-<!--
-**sk5268/sk5268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm an **Applied AI enthusiast** who **lives and breathes language models**.  
+Very much into **training Tiny Language Models (TLMs) from scratch**, experimenting with agents, local/offline setups, and building fun, practical tools.<br>
+Whether it's fine-tuning models for smarter function calling, creating browser extensions that supercharge AI experiences, or hacking together productivity automations — if it involves tinkering with LLMs, I'm in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts
+- I use **Grok** more than Gemini, ChatGPT, or Claude 😄
+- I distro hop every 4 months. At any given time, I run **macOS + Windows + Fedora + $distro_of_the_quarter**
+
+### What I'm building lately
+- Training & fine-tuning **Tiny Language Models (TLMs)** from the ground up
+- Agentic workflows and productivity experiments
+- Vibe-coding websites & Android apps for my karate dojo management
+
+---
+
+### AFK 🌍
+
+If I'm not staring at a screen, I'm probably:
+
+- Training as a **2nd Dan Black Belt** in **Okinawa Goju Ryu** Karate [TOGKF](https://togkf.com/) 🥋
+- Learning to play the **Flute** 🎵
+- Trying to smooth out the tight gearbox on my bike 🏍️
+- Rewiring my home ⚡
+- Jerry-rigging cables and wires to make the networking invisible 🔌
+
+---
+
+## 📊 GitHub Stats
+
+![Srimadhava's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk5268&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sk5268&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌐 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/srimadhava-khandavilli/)
+- 📧 Open to chats about language models, TLMs, Karate, motorcycles, or Linux distros!
