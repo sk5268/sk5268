@@ -21,7 +21,8 @@ Whether it's fine-tuning models for smarter function calling, creating browser e
 
 If I'm not staring at a screen, I'm probably:
 
-- Training as a **2nd Dan Black Belt** in **Okinawa Goju Ryu** Karate [TOGKF](https://togkf.com/) 🥋
+- Training as a **2nd Dan Black Belt** in **Okinawa Goju Ryu** Karate [TOGKF](https://togkf.in/) 🥋
+- Admin Secretary at [Sanbo Ken-Kai Goju Ryu Karate-Do](https://togkf.in/skgk)
 - Learning to play the **Flute** 🎵
 - Trying to smooth out the tight gearbox on my bike 🏍️
 - Rewiring my home ⚡
